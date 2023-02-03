@@ -6,4 +6,4 @@ The HUD / config for a game I don't even play xd
 
 And now a spec hud wow :^)
 
-![HUD Image](https://clubtropicana.gg/shared/img/cpmaspechud.jpg)
+![HUD Image](https://clubtropicana.gg/shared/img/cpmaspechud2.jpg)
